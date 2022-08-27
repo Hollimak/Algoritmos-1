@@ -1,4 +1,4 @@
-Aqui são os exercicios
+Aqui são os exercicios, faça esses exercicios usando entradas, saidas e if-else
 
 1. --Faça um programa que tenha 3 variáveis, uma do tipo float, outra do tipo char e, por último, uma do tipo int. Dê valores a essas variáveis, utilizando scanf, e imprima-as na tela.
 
