@@ -3,7 +3,7 @@ imprimir seus quadrados.
 
 2. Dado n, calcular a soma dos n primeiros números naturais.
 
-3. Dado n, imprimir os n primeiros naturais ímpares.
+3. Dado n, imprimir os n primeiros naturais ímpares
 
 4. Dado uma sequência de n números inteiros quaisquer que representam as 
 temperaturas médias diárias num dado período, determinar a média aritmética da 
