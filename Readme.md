@@ -5,3 +5,5 @@ Lista 1 - Será usado apenas Entradas, saídas e if-else
 
 
 Lista 2 - if e elses 
+
+Lista 3 - Laços de repetição
